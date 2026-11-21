@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0B6E4F"/>
+  <rect x="64" y="176" width="384" height="160" rx="22" fill="#FFFFFF"/>
+  <rect x="64" y="176" width="118" height="160" rx="22" fill="#18201D"/>
+  <rect x="150" y="176" width="32" height="160" fill="#18201D"/>
+  <text x="123" y="272" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF" text-anchor="middle">KSA</text>
+  <path d="M226 230h150m-34-30 34 30-34 30" fill="none" stroke="#0B6E4F" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M410 290H260m34 30-34-30 34-30" fill="none" stroke="#B4531F" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
